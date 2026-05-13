@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vikrant Patade 👋
 
-<!--
-**vicpat/vicpat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Workflow Builder focused on:
+- Operational Intelligence
+- Prompt Engineering
+- Workflow Automation
+- Vehicle Ownership Systems
+- AI Execution Frameworks
 
-Here are some ideas to get you started:
+## Current Focus
+- AI-assisted workflow systems
+- Execution intelligence
+- Long-context operational memory
+- Prompt orchestration systems
+- Automation structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Repositories
+- AI Vehicle Ownership System
+- BullsEye Trading System
+- AI Execution OS
+- Prompt Orchestration System
+
+## Vision
+Building structured AI systems for execution clarity, operational workflows, and scalable intelligence systems.
